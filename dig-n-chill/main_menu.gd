@@ -19,7 +19,7 @@ func _play_intro() -> void:
 
 
 func _on_play_button_pressed() -> void:
-	get_tree().change_scene_to_file("res://character_body_2d.tscn")
+	get_tree().change_scene_to_file("res://node_2d.tscn")
 
 
 func _on_settings_button_pressed() -> void:
