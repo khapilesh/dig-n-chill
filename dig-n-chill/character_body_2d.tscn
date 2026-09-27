@@ -5,7 +5,7 @@
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_78qe6"]
 size = Vector2(46, 45)
 
-[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1108489404]
+[node name="player" type="CharacterBody2D" unique_id=1108489404]
 script = ExtResource("1_f50pn")
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1934429271]
